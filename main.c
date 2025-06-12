@@ -8,4 +8,5 @@ void main()
 {
     printf("hello world \r\n");
     printf("sub:%d \r\n",sub(5,3));
+    printf("sub_dev_finish \r\n");
 }
