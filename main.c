@@ -7,4 +7,5 @@ int add(int a,int b)
 void main()
 {
     printf("hello world:%d \r\n",add(2,3));
+    printf("add_dev_finish \r\n");
 }
